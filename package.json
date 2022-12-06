@@ -42,7 +42,7 @@
     "url-loader": "^2.2.0",
     "vue-loader": "^15.7.1",
     "vue-template-compiler": "^2.6.10",
-    "web-dev-server": "^1.6.2",
+    "web-dev-server": "^1.6.7",
     "webpack": "^4.41.1",
     "webpack-cli": "^3.3.9",
     "webpack-dev-server": "^3.0.0"
